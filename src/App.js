@@ -62,7 +62,7 @@ function alsoDate() {
 alsoDate();
 
 function line() {
-	document.getElementById('java').innerText="Digital Clock In javascript By Adnan Falak";
+	document.getElementById('java').innerText="Digital Clock In javascript";
 }
 line();
 
