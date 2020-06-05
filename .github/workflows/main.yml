@@ -22,4 +22,3 @@ jobs:
         run: npm install -g surge
       - name: Run surge
         run: surge ./build react-myapp-project03.surge.sh --token ${{ secrets.REACT_APP_SURGE_TOKEN }}
-   
